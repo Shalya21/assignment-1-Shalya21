@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);      //scanner object for scanning inputs
-        System.out.println("Welcome to THOR contact list:");
+        System.out.println("Welcome to my contact list:");
         System.out.println("-------- * -------- * -------- * --------\n" +
                 "-------- * -------- * -------- * --------");
 
